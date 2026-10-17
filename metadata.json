@@ -1,0 +1,6 @@
+{
+  "name": "Kairós Super Assistente",
+  "description": "Super assistente pessoal e profissional PWA & Desktop com inteligência Kairós, ecossistema pi.dev, agenda, aniversários e gestão de clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
